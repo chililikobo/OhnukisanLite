@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/github/v/release/chililikobo/OhnukisanLite?label=Version&color=blue)](https://github.com/chililikobo/OhnukisanLite/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/chililikobo/OhnukisanLite/total?label=Downloads&color=green)](https://github.com/chililikobo/OhnukisanLite/releases/latest)
-[![License](https://img.shields.io/badge/License-Freeware-orange)](#--license--disclaimer--ライセンスと免責事項)
+[![License](https://img.shields.io/badge/License-Freeware-orange)](#-license--disclaimer--%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E3%81%A8%E5%85%8D%E8%B2%AC%E4%BA%8B%E9%A0%85)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-lightgrey)](#-動作環境-system-requirements)
 
 Windows PCの構成情報を簡単に取得し、可視化するためのフリーウェアです。
