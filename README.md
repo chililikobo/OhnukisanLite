@@ -1,9 +1,9 @@
 # Ohnuki-san Lite (大抜さん Lite)
 
-[![Version](https://badgen.net/github/release/chililikobo/OhnukisanLite?label=Version&color=blue)](https://github.com/chililikobo/OhnukisanLite/releases/latest)
-[![Downloads](https://badgen.net/github/assets-dl/chililikobo/OhnukisanLite?label=Downloads&color=228b22)](https://github.com/chililikobo/OhnukisanLite/releases/latest)
-[![License](https://badgen.net/badge/License/Freeware/purple)](#-ライセンスと免責事項-license--disclaimer)
-[![Platform](https://badgen.net/badge/Platform/Windows%2010%20%2F%2011/black)](#-動作環境-system-requirements)
+[![Version](https://badgen.net/github/release/chililikobo/OhnukisanLite)](https://github.com/chililikobo/OhnukisanLite/releases/latest)
+[![Downloads](https://badgen.net/github/assets-dl/chililikobo/OhnukisanLite)](https://github.com/chililikobo/OhnukisanLite/releases/latest)
+[![License](https://badgen.net/badge/license/Freeware/purple)](#-ライセンスと免責事項-license--disclaimer)
+[![Platform](https://badgen.net/badge/platform/Windows%2010%20%2F%2011/black)](#-動作環境-system-requirements)
 
 Windows PCの構成情報を簡単に取得し、可視化するためのフリーウェアです。
 
