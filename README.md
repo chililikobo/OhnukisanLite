@@ -44,12 +44,9 @@ Windows PCの構成情報を簡単に取得し、可視化するためのフリ�
   本ソフトウェアは現状有姿で提供されます。使用によるデータの損失やPCの不具合等について、作者は一切の責任を負いません。
 
 ## クレジット / Credits (Third-party Libraries)
+This application incorporates open-source components. For detailed copyright notices and license agreements, refer to [ThirdPartyNotices.md](ThirdPartyNotices.md).
 
-本プロジェクトでは以下のオープンソース・ライブラリを使用しています。  
-This software uses the following open-source libraries:
-
-*   **[ManagedNativeWifi](https://github.com/emoacht/ManagedNativeWifi)** (MIT License)
-*   **[Obfuscar](https://github.com/obfuscar/obfuscar)** (MIT License)
+本ソフトウェアはオープンソースコンポーネントを使用しています。各コンポーネントの著作権表示およびライセンス条文の詳細は [ThirdPartyNotices.md](ThirdPartyNotices.md) をご参照ください。
 
 ---
 © 2026 chilili kobo
